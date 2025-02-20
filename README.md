@@ -6,36 +6,36 @@ This project portfolio aims to leverage traditional machine learning techniques 
 
 **Tools and Libraries**
 Python Libraries:
-Pandas: Data manipulation and analysis.
-Matplotlib/Seaborn: Data visualization.
-Scikit-learn: For machine learning algorithms (regression, classification, clustering).
-Statsmodels: For statistical models, especially time series forecasting (ARIMA, SARIMA).
-SciPy: For optimization techniques (linear programming, integer programming).
+- Pandas: Data manipulation and analysis.
+- Matplotlib/Seaborn: Data visualization.
+- Scikit-learn: For machine learning algorithms (regression, classification, clustering).
+- Statsmodels: For statistical models, especially time series forecasting (ARIMA, SARIMA).
+- SciPy: For optimization techniques (linear programming, integer programming).
 
 
 **The following projects are included in this portfolio:**
-Sales Forecasting (Time Series Analysis):
+1. Sales Forecasting (Time Series Analysis):
 Use ARIMA, SARIMA, or Prophet to forecast monthly or weekly sales, helping with inventory planning by identifying demand patterns.
 
-Customer Segmentation (Clustering):
+2. Customer Segmentation (Clustering):
 Employ K-Means or Hierarchical Clustering to group customers based on purchasing behavior, enabling personalized marketing strategies.
 
-Market Basket Analysis (Association Rule Mining):
+3. Market Basket Analysis (Association Rule Mining):
 Utilize the Apriori or FP-growth algorithms to uncover product associations, optimizing product bundling and improving cross-selling opportunities.
 
-Churn Prediction (Customer Retention):
+4. Churn Prediction (Customer Retention):
 Implement logistic regression, decision trees, or random forests to identify at-risk customers, allowing for targeted retention strategies.
 
-Sales Performance by Product & Supplier:
+5. Sales Performance by Product & Supplier:
 Analyze revenue, units sold, and profit margins through visualizations and pivot tables to focus on best-performing products and suppliers.
 
-Price Optimization:
+6. Price Optimization:
 Use linear regression or decision trees to model price elasticity, determining optimal price points for maximizing revenue.
 
-Inventory Management Optimization:
+7. Inventory Management Optimization:
 Use linear programming to optimize stock levels across products and predict inventory needs based on historical sales data.
 
-Customer Lifetime Value (CLV) Prediction:
+8. Customer Lifetime Value (CLV) Prediction:
 Estimate customer lifetime value using regression models to identify and prioritize high-value customers.
 
 
